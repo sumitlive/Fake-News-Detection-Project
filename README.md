@@ -1,7 +1,3 @@
-Here’s a professional and detailed README template for your Fake News Detection project:  
-
----
-
 # Fake News Detection Using LSTM  
 
 ## Overview  
@@ -15,7 +11,7 @@ This project aims to detect fake news articles using a Long Short-Term Memory (L
 - **Scalable Solution**: Designed for integration into real-world applications such as APIs or user-facing systems.  
 
 ## Dataset  
-The project uses a labeled dataset containing thousands of news articles. Each article is classified as either "real" or "fake." (Mention the dataset source, e.g., Kaggle, if applicable).  
+The project uses a labeled dataset containing thousands of news articles. Each article is classified as either "real" or "fake." 
 
 ## Technologies Used  
 - **Programming Language**: Python  
